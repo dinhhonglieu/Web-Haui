@@ -1,0 +1,33 @@
+
+li{
+    padding: 20px;
+    width: 150px;
+    background-color: blue;
+    border-bottom: 0.5px solid rgb(100, 98, 98);
+    color: #fff;
+    font-size: 20px;
+    list-style: none;
+}
+li:hover{
+    background-color: red;
+}
+ul{
+    border: 0.2 solid rgb(100, 98, 98);
+   
+}
+.menu2{
+    display: none;
+}
+.menu{
+    position: relative;
+}
+.menu:hover .menu2{
+    display: block;
+    position: absolute;
+    left: 79%;
+    top: 0;
+    font-size: 20px;
+}
+.menu:hover .menu2 li{
+    color: #fff;
+}

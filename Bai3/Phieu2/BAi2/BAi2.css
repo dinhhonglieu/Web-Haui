@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    position: relative;
+    background-color: #a06d21;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.content{
+    width: 100%;
+    text-align: center;
+    
+    margin-top: 20px;
+}
+h1{
+    color: #ffcc00;
+    text-align: center;
+}
+img{
+    width: 100%;
+}
+.anh{
+    width:400px; 
+   top: 50%;
+   left: 50%;
+   /* transform: translate(-50%,-50%); */
+   position: fixed;
+
+   
+}
+p{
+   margin-top: 20px;
+   text-align: justify;
+   padding: 0 2%;
+    color: #fff;
+    top: 0;
+    background-color: rgba(0, 0, 0, 0);
+    position: absolute;
+    
+}

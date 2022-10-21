@@ -1,0 +1,30 @@
+*{
+    width: 960px;
+    background-color: #facfcf;
+}
+header{
+    width: 100px;
+
+}
+nav{
+    background-color: #420000;
+    height: 30px;
+    width: 100%;
+}
+ul{
+
+    
+    color: #fff;
+    display: flex;
+    justify-content: space-around;
+    line-height: 30px;
+}
+.nd{
+    display: flex;
+}
+.sidebar{
+    width: 204px;
+    background-color: #9d6f68;
+    color: #fff;
+    align-content: space-around;
+}

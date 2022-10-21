@@ -1,0 +1,21 @@
+caption{
+    text-transform: uppercase;
+    background-color: orange;
+    color: #000;
+    margin-bottom: 10px;
+    
+}
+th{
+    background-color: orange;
+    color: #fff;
+    border: 1px solid rgb(140, 108, 50);
+}
+table{
+    border: 1px solid orange;
+    width: 500px;
+    margin: 0 auto;
+    
+}
+td{
+    border: 1px solid orange;;
+}

@@ -1,0 +1,16 @@
+.bd{
+    width: 240px;
+    height: 130px;
+    background-color: aqua;
+    position: relative;
+    padding: 25px;
+    margin: 25px;
+}
+div{
+    padding: 25px;
+    width: 200px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    background-color:rgb(158, 158, 224);
+}

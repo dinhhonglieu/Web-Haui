@@ -1,0 +1,32 @@
+
+.me{
+    text-align: center;
+    background-color: #FCEFFD;
+    
+}
+h1{
+    color: #FF3399;
+}
+.tho{
+   
+    font-style: italic;
+    background-color: #EFFFCC;
+}
+.doan1, .doan2, .doan3{
+    text-align: center;
+    width: 60%;
+    transform: translateX(35%);
+}
+
+.doan1{
+    color: rgb(112, 112, 244);
+    
+}
+.doan2{
+    color: rgb(236, 98, 98);
+   
+}
+.doan3{
+    color: rgb(75, 173, 75);
+    
+}
